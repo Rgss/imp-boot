@@ -1,0 +1,6 @@
+./bin/main
+./bin/logs/
+.idea/
+.DS_Store
+go.mod
+go.sum
